@@ -1,3 +1,9 @@
+# La Maison Jungle
+
+This is a sample project that I developped following the tutorial to learn React on OpenClassrooms
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
