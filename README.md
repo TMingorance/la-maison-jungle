@@ -1,8 +1,7 @@
 # La Maison Jungle
 
 This is a sample project that I developped following the tutorial to learn React on OpenClassrooms
-
-
+<br><br>
 
 # Getting Started with Create React App
 
